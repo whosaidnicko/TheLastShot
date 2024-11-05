@@ -26,7 +26,7 @@ struct SettingsView: View {
                 
                 
                 Button {
-                    if let url = URL(string: "https://www.dropbox.com/scl/fi/s10fdc3ugui0fn4bh6kms/Untitled.paper?rlkey=1l4b23jjx523m9un4e4nnvyrl&st=nz54orhs&dl=0") {
+                    if let url = URL(string: "https://www.dropbox.com/scl/fi/s10fdc3ugui0fn4bh6kms/Privacy-Policy-for-Last-Shot-Ball.paper?rlkey=1l4b23jjx523m9un4e4nnvyrl&st=w6ek263k&dl=0") {
                         UIApplication.shared.open(url)
                     }
                 } label: {
